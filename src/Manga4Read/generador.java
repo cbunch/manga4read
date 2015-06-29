@@ -226,7 +226,7 @@ public class generador {
                 urlFinal=url1+entrada+url2;
             } 
         }
-        if ((salto > 16)&&(comprobar(urlFinal))){
+        if ((salto >= 16)&&(comprobar(urlFinal))){
             if(salto>500){
                 return 0;
             }else{
