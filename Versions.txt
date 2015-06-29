@@ -3,4 +3,4 @@ Version 0.9
   -Servidores soportados: Submanga, Fakku, Hakihome
   -Soportada deteccion automatica de enlaces
   -Implementado manejo de la cola 
-  -
+  -Resolucion del error 31 Paginas 

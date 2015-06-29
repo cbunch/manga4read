@@ -2,6 +2,7 @@
 *.db
 dist/*
 build/*
+nbproject/*
 captura.png
 /build/
 mangas.db
